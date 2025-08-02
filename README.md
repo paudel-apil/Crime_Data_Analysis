@@ -12,9 +12,9 @@ Exploratory Data Analysis(EDA) of number of crimes, crime_type, victim demograph
 </pre>
 #### Victim Demographics:
 <pre>
-Age Group	    Percentage of Crimes
+Age Group	   Percentage of Crimes
 Adult	        49.07%
-Elderly	      41.93%
+Elderly	        41.93%
 Teen	        8.07%
 Child	        0.93%
 
